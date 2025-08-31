@@ -9,29 +9,18 @@ module.exports = {
     description: "Send all my bot links and tutorials",
     categories: "Utility",
     usages: [".allbots"],
-    credit: "Developed by Mohammad Nayan"
+    credit: "Developed by Mohammad Rahi"
   },
 
   start: async ({ api, event }) => {
     const { threadId, message } = event;
 
-    const myNumber = "8801615298449";
-    const msg = `🌟 *NAYAN BOT COLLECTION* 🌟
+    const myNumber = "88016159778308";
+    const msg = `🌟 *RAHI BOT COLLECTION* 🌟
 
-📱 *WhatsApp Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-07/NAYAN-WHATSAPP-BOT
-Tutorial: https://youtu.be/hrO_v3z-Lq8
-
-💬 *Messenger Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-07/Nayan-Bot
-Tutorial: https://youtu.be/DrQw3j56Llk
-
-🤖 *Telegram Bot*
-Link: https://github.com/MOHAMMAD-NAYAN-07/NAYAN-TELEGRAM-BOT
-Tutorial: https://youtu.be/FyjUL6MwaXs
 
 🛠️ *Support Channel*
-Link: https://chat.whatsapp.com/KuSent8x2rIIl93CD1aKBl?mode=ems_copy_c
+Link: https://chat.whatsapp.com/H14aq1OQ94d0Cm126NIGnQ?mode=ems_copy_t
 
 📞 *Contact Me*: +${myNumber}`;
 
