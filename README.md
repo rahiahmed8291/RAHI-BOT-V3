@@ -1,4 +1,4 @@
-# 🤖 RAHI BOT BBY
+# 🤖 𝐑𝐀𝐇𝐈 𝐁𝐎𝐓 𝐁𝐁𝐘
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/SKtj0npj/IMG-20250825-WA0009.jpg" alt="RAHI BOT BBY" height="300"> 
+    <img src="https://i.postimg.cc/j5cTV9fc/IMG-20250901-WA0035.jpg" alt="RAHI BOT BBY" height="300"> 
   </a> 
 </div>
 <br>
