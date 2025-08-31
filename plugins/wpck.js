@@ -1,13 +1,13 @@
 module.exports = {
   config: {
     name: 'wpcheck',
-    aliases: ['checkwp', 'iswp', 'sojib'],
+    aliases: ['checkwp', 'iswp', 'rahi'],
     permission: 0,
     prefix: 'both',
     description: 'Check if number(s) have WhatsApp accounts.',
     categories: 'Utility',
-    usages: ['.wpcheck 8801615298449 8801754168148'],
-    credit: 'Developed by Mohammad Nayan'
+    usages: ['.wpcheck 8801615978308 8801711209381'],
+    credit: 'Developed by Mohammad Rahi'
   },
 
   start: async ({ api, args, event }) => {
