@@ -7,7 +7,7 @@ module.exports = {
     permission: 0,
     prefix: 'both',
     categorie: 'Utilities',
-    credit: 'Developed by Mohammad Nayan',
+    credit: 'Developed by Mohammad Rahi',
     usages: [`${global.config.PREFIX}info - Show admin and server information.`],
   },
   start: async ({ event, api, message }) => {
@@ -36,7 +36,7 @@ module.exports = {
 𝐆𝐦𝐚𝐢𝐥       : rahiahmed143@gmail.com
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩   : wa.me/+8801711209381
 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦     : t.me/rahiahmed_v2
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: 
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤: https://www.facebook.com/www.xnxx.cohttps://www.facebook.com/profile.php?id=61578991060721
 
 --------------------------------------------
 \`\`\`
